@@ -1,0 +1,20 @@
+@import "Commons.css";
+
+.dw-text-input .prevent-collapse-when-empty:empty:before {
+    content: "\200b";
+}
+
+.dw-text-input input {
+    background-color: white !important;
+    border-color: var(--dw-mtavari) !important;
+}
+
+.dw-text-input .dw-invalid input {
+    border-color: var(--dw-error) !important;
+    border: 1px solid;
+}
+
+.dw-text-input .dw-valid input {
+    border-color: var(--dw-success) !important;
+    border: 1px solid;
+}

@@ -1,0 +1,12 @@
+:root {
+
+    --dw-mtavari: rgb(25, 85, 163);
+    --dw-vice-mtavari: rgb(29, 94, 180);
+    --dw-junior-mtavari: rgba(255, 204, 138, 1);
+    --dw-light: rgb(255, 255, 255);
+
+    --dw-success:rgba(53, 105, 52, 1.0);
+    --dw-error: rgba(145, 16, 16, 1.0);
+
+    --dw-font-simple: "Consolas";
+}

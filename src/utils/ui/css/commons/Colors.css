@@ -1,0 +1,19 @@
+@import "./Consts.css";
+
+.dw-success { color: var(--dw-success) !important; }
+.dw-bg-success { background-color: var(--dw-success) !important; }
+
+.dw-error { color: var(--dw-error) !important; }
+.dw-bg-error { background-color: var(--dw-error) !important; }
+
+.dw-mtavari { color: var(--dw-mtavari) !important; }
+.dw-bg-mtavari { background-color: var(--dw-mtavari) !important; }
+
+.dw-vice-mtavari { color: var(--dw-vice-mtavari) !important; }
+.dw-bg-vice-mtavari { background-color: var(--dw-vice-mtavari) !important; }
+
+.dw-junior-mtavari { color: var(--dw-junior-mtavari) !important; }
+.dw-bg-junior-mtavari { background-color: var(--dw-junior-mtavari) !important; }
+
+.dw-light { color: var(--dw-light) !important; }
+.dw-bg-light { background-color: var(--dw-light) !important; }

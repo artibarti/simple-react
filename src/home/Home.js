@@ -1,6 +1,6 @@
 import React from 'react'
 import { AuthenticationManager } from '../utils/AuthenticationManager';
-import { Grid, Icon, Image } from 'semantic-ui-react';
+import { Grid, Icon } from 'semantic-ui-react';
 import { Link, Redirect } from 'react-router-dom';
 import AuthenticatedComponentProxy from '../utils/AuthenticatedComponentProxy';
 
